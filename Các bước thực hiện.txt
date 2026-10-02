@@ -1,0 +1,9 @@
+1. Thuê 1 VPS
+2. Cài đặt tường lửa
+	- Cài đặt UFW
+	- Cho phép 1 số port chạy qua
+
+3. Cài đặt nginx
+	- Cài đặt nginx
+	- Chạy thử:   http://<ip_address> 	-> Lên trang mặc định của nginx
+	- Tạo 1 file html và đưa vào 1 số nội dung cần hiển thị -> Chạy thử
